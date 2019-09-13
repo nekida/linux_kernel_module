@@ -1,0 +1,1 @@
+Simple timer Linux kernel. More: https://0b11.wordpress.com/2019/09/02/%d0%bc%d0%be%d0%b4%d1%83%d0%bb%d0%b8-%d1%8f%d0%b4%d1%80%d0%b0-linux-4-%d1%82%d0%b0%d0%b9%d0%bc%d0%b5%d1%80%d1%8b-%d0%bf%d1%80%d0%b5%d1%80%d1%8b%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8-gpio/

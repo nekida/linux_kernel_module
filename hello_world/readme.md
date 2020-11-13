@@ -1,1 +1,1 @@
-Hello world with parameter. More: https://0b11.wordpress.com/2019/08/30/%d0%bc%d0%be%d0%b4%d1%83%d0%bb%d0%b8-%d1%8f%d0%b4%d1%80%d0%b0-linux-2-1-%d1%81%d0%be%d0%b1%d0%b8%d1%80%d0%b0%d0%b5%d0%bc%d1%81%d1%8f-%d0%b8-%d1%83%d1%85%d0%be%d0%b4%d0%b8%d0%bc-%d0%bd%d0%b0-%d0%bf/
+Hello world with parameter on Raspberry Pi 3 Model B
